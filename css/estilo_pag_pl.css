@@ -1,0 +1,26 @@
+body {
+    margin: 0;
+    padding: 0;
+    height: 100%;
+    font-family: Georgia, "Times New Roman", Times, serif;
+    color: rgb(16, 88, 88);
+    background-color: #efc787;
+    display: flex;
+    align-items: center;
+    justify-content: center;
+}
+
+.caixa-confirmacao {
+    border: 2px solid black;
+    border-radius: 16px;
+    padding: 30px;
+    display: flex;
+    flex-direction: column;
+    gap: 15px;
+    background-color: #fff0d4;
+    box-shadow: 4px 4px 12px rgba(0, 0, 0, 0.2);
+    min-width: 250px;
+    align-items: center;
+    margin-top: 2%;
+    /*max-width: 50rem;*/
+}

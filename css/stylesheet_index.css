@@ -11,7 +11,18 @@ body {
     display: flex;
     justify-content: center;
     align-items: center;
-    height: 100vh;
+    height: 60vh;
+}
+
+.logo-name{
+    margin-top: 20vh;
+    display: flex;
+    justify-content: center;
+    align-items: center;
+}
+
+.logo-name > h1{
+    font-size: 50px;
 }
 
 .box {
