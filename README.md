@@ -24,8 +24,8 @@
 
 1. Clone o repositório:
 
-```bash
-git clone https://github.com/seu-usuario/servidor-com-pl.git
+```bash 
+git clone https://github.com/Danielbgoncalves/servidor-com-pl.git
 cd pizzalogica
 ````
 2. ?- ['processaPedido.pl'].
