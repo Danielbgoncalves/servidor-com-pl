@@ -6,16 +6,16 @@
 
 ---
 
-## ✨ Funcionalidades
+##  Funcionalidades
 
-- 📋 Cadastro de pedidos com nome, telefone, email, tamanho, ingredientes, horário e observações.
-- ❌ Cancelamento de pedidos com base em nome e telefone.
-- 💾 Armazenamento em arquivo Prolog (`pedidos.pl`)
-- 🌐 Interface web amigável com retorno HTML visual
+-  Cadastro de pedidos com nome, telefone, email, tamanho, ingredientes, horário e observações.
+-   Cancelamento de pedidos com base em nome e telefone.
+-  Armazenamento em arquivo Prolog (`pedidos.pl`)
+-  Interface web amigável com retorno HTML visual
 
 ---
 
-## 🚀 Como rodar
+##  Como rodar
 
 ### Pré-requisitos:
 - [SWI-Prolog](https://www.swi-prolog.org/) instalado
