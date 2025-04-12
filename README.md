@@ -30,7 +30,7 @@ cd pizzalogica
 ````
 2. ?- ['processaPedido.pl'].
 3. ?- servidor(8000).
-4. http://localhost:8000/index.html
+4. Abra o index.html e o veja em http://localhost:8000/index.html
 
 
 ### O que é feito aqui
