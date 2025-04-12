@@ -1,0 +1,48 @@
+body {
+    margin: 0;
+    padding: 0;
+    height: 100%;
+    font-family: Georgia, "Times New Roman", Times, serif;
+    color: rgb(16, 88, 88);
+    background-color: #efc787;
+}
+
+.container {
+    display: flex;
+    justify-content: center;
+    align-items: center;
+    height: 100vh;
+}
+
+.box {
+    border: 2px solid black;
+    border-radius: 16px;
+    padding: 30px;
+    display: flex;
+    flex-direction: column;
+    gap: 15px;
+    background-color: #fff6e5;
+    box-shadow: 4px 4px 12px rgba(0, 0, 0, 0.2);
+    min-width: 250px;
+    align-items: center;
+}
+
+/* Estilização dos botões */
+.box button {
+    padding: 12px 24px;
+    font-size: 16px;
+    border: none;
+    border-radius: 8px;
+    background-color: #105858;
+    color: white;
+    cursor: pointer;
+    transition: all 0.2s ease;
+    width: 100%;
+}
+
+/* Efeito ao passar o mouse */
+.box button:hover {
+    background-color: #0d4444;
+    transform: scale(1.05);
+    box-shadow: 0 0 10px rgba(16, 88, 88, 0.4);
+}
